@@ -1,10 +1,11 @@
+
 # Spin Cycle
 
 A playful chore wheel — add the chores you've been putting off, give it a spin, and let the wheel decide what you do next. Knock it out, mark it done, spin again.
 
 **Live demo:** https://spin-cycle-chores.netlify.app/
 
-![Spin Cycle — a colorful wheel of chores with a spin button](screenshot.png)
+<img width="1436" height="773" alt="Screenshot 2026-06-21 at 4 27 48 PM" src="https://github.com/user-attachments/assets/68a65564-1939-4101-8b7f-10000aed935d" />
 
 ## Why
 
