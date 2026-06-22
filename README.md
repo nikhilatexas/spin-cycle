@@ -4,14 +4,8 @@ A playful chore wheel — add the chores you've been putting off, give it a spin
 
 **Live demo:** https://spin-cycle-chores.netlify.app/
 
-![Spin Cycle — a colorful wheel of chores with a spin button](screenshot.png)
+<img width="1436" height="773" alt="Screenshot 2026-06-21 at 5 24 18 PM" src="https://github.com/user-attachments/assets/a0f9d313-f478-4953-958e-67e0c1c9eb5b" />
 
-## Demo
-
-![Spin Cycle in action — the wheel spins, lands on a chore, and confetti bursts](demo.gif)
-
-> Don't have a GIF yet? Record a 3–5 second spin and save it as `demo.gif` in the repo root.
-> On macOS, [Kap](https://getkap.co/) exports straight to GIF; on Windows, [ScreenToGif](https://www.screentogif.com/) does the same. Keep it short and looping for the best effect.
 
 ## Why
 
